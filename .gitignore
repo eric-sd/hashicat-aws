@@ -14,4 +14,4 @@
 # terraformrc file
 terraform.rc
 .terraformrc
-*backend.tf
+#*backend.tf
